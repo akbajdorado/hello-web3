@@ -25,6 +25,12 @@ A personal report documenting my Ammora participation, historical waitlist and A
 
 [Read the report](project-reviews/ammora-experience-report.md)
 
+### 3. KieDex: Trading Testnet Experience
+
+A thread documenting my KieDex testnet experience, including futures and leverage concepts, historical trading statistics, reward points, and personal observations about the trading interface.
+
+[Read the thread](content-samples/kiedex-thread.md)
+
 ## My Approach
 
 - Write clearly and keep content accessible to beginners.
