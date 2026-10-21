@@ -1,14 +1,44 @@
-# Hello Web3
+# Web3 Content Portfolio
 
-Hi, welcome to my Web3 learning journey!
+Hi! I'm `akbajdorado`, an aspiring Web3 Content Creator building practical skills through writing, project research, and testnet participation.
 
-I'm a beginner exploring the Web3 ecosystem, focusing on non-technical skills such as:
+I focus on creating clear, beginner-friendly content and documenting real user experiences in the Web3 ecosystem.
 
-- Community engagement
-- Content creation
-- Project research
-- Testnet documentation
+## Skills and Focus Areas
 
-This repository is my starting point to document what I learn and the contributions I make along the way.
+- **Web3 Content Writing:** Educational articles and beginner-friendly explanations.
+- **Project Research:** Exploring Web3 projects and summarizing user-facing information.
+- **User Experience Documentation:** Recording observations, identifying usability issues, and suggesting improvements.
+- **Community Contribution:** Learning to communicate clearly and provide constructive feedback.
 
-Learning step by step. Building in public.
+## Portfolio
+
+### 1. What Is a Testnet?
+
+An educational article explaining what testnets are, why they matter, and how beginners can participate safely.
+
+[Read the article](content-samples/what-is-a-testnet.md)
+
+### 2. Ammora: Testnet Participation and User Experience Report
+
+A personal report documenting my Ammora participation, historical waitlist and AP records, bridge and swap observations, and suggestions for improving the user experience.
+
+[Read the report](project-reviews/ammora-experience-report.md)
+
+## My Approach
+
+- Write clearly and keep content accessible to beginners.
+- Distinguish personal observations from verified facts.
+- Avoid promising airdrops, token rewards, or financial outcomes.
+- Share constructive feedback based on actual experiences.
+- Keep learning and improving through practical work.
+
+## Current Goal
+
+I'm building a public portfolio to develop my skills as a Web3 Content Creator and Community Contributor.
+
+I'm open to opportunities to contribute through content writing, project documentation, and community-focused research.
+
+---
+
+*This portfolio is a work in progress. More samples will be added as I learn and gain experience.*
