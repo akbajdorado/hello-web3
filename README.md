@@ -49,6 +49,18 @@ I'm building a public portfolio to develop my skills as a Web3 Content Creator a
 
 I'm open to opportunities to contribute through content writing, project documentation, and community-focused research.
 
----
+## Testnet Quest — Testnet Growth Campaign
+
+A 7-day portfolio simulation showcasing beginner-focused Web3 campaign planning, educational content, crypto-native memes, and campaign evaluation.
+
+Project deliverables:
+
+Campaign Brief
+
+7-Day Content Calendar
+
+Sample Content Pack
+
+Campaign Results Framework
 
 *This portfolio is a work in progress. More samples will be added as I learn and gain experience.*
