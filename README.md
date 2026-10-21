@@ -24,9 +24,13 @@ An educational article explaining what testnets are, why they matter, and how be
 A personal report documenting my Ammora participation, historical waitlist and AP records, bridge and swap observations, and suggestions for improving the user experience.
 
 [Read the report](project-reviews/ammora-experience-report.md)
-
+[Read the KieDex UX Research](project-reviews/kiedex-user-experience-research.md)
 ### 3. KieDex: Trading Testnet Experience
+### 4. KieDex: User Experience Research & Recommendations
 
+A user experience research report documenting personal observations and practical recommendations for improving trading history transparency, Oil consumption tracking, and trading points.
+
+[Read the UX research report](project-reviews/kiedex-user-experience-research.md)
 A thread documenting my KieDex testnet experience, including futures and leverage concepts, historical trading statistics, reward points, and personal observations about the trading interface.
 
 [Read the thread](content-samples/kiedex-thread.md)
