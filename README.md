@@ -55,12 +55,12 @@ A 7-day portfolio simulation showcasing beginner-focused Web3 campaign planning,
 
 Project deliverables:
 
-Campaign Brief
+- [Campaign Brief](https://github.com/akbajdorado/hello-web3/blob/main/content-campaigns/testnet-quest/campaign-brief.md)
 
-7-Day Content Calendar
+- [7-Day Content Calendar](https://github.com/akbajdorado/hello-web3/blob/main/content-campaigns/testnet-quest/content-calendar.md)
 
-Sample Content Pack
+- [Sample Content Pack](https://github.com/akbajdorado/hello-web3/blob/main/content-campaigns/testnet-quest/sample-content.md)
 
-Campaign Results Framework
+- [Campaign Results Framework](https://github.com/akbajdorado/hello-web3/blob/main/content-campaigns/testnet-quest/campaign-results.md)
 
 *This portfolio is a work in progress. More samples will be added as I learn and gain experience.*
